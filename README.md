@@ -7,4 +7,4 @@ https://doi.org/10.48550/arXiv.2108.03877).
 
 Video is made for an earlier version of the paper.
 
-
+[Motivating running instances (K-SAT) of the ZH algorithm](Motivating running instances.pdf).
