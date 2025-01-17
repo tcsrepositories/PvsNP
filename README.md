@@ -1,3 +1,3 @@
-Visit: (
-https://tcsrepositories.github.io/PvsNP/).
+Visit: 
+https://tcsrepositories.github.io/PvsNP/.
 
